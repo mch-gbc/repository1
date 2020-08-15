@@ -1,6 +1,6 @@
 /**
  * Author: Malaki Holmes
- *        mholmes15@huskers.unl.edu
+ *         mholmes15@huskers.unl.edu
  * Date: 2020/8/15
  *
  * A simple hello world program in C
@@ -13,6 +13,6 @@ int main(int argc, char **argv) {
 
   printf("Malaki Holmes\n");
   printf("Computer Science\n");
-
+  printf("C is cool, but I like Java more.\n");
   return 0;
 }
